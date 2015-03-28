@@ -5,5 +5,5 @@ category: Services
 title: No Alarms, No Popups
 description: |
   <p class="lead">There are lots of ways to send a message that will get someone's attention.  FFTI isn't one of them…</p>
-  <p class="lead">Use FFTI when you don't want to have your message pop up when they're sleeping, or working, or trying to live life a little less <A HREF="http://en.wikipedia.org/wiki/Classical_conditioning"><em>Pavlovian</EM></a>.</p>
+  <p class="lead">Use FFTI when you don't want to have your message pop up when they're sleeping, or working, or trying to live life a little less <A HREF="http://en.wikipedia.org/wiki/Classical_conditioning" target="_new"><em>Pavlovian</EM></a>.</p>
 ---
