@@ -2,11 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Stop Waking People Up
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">It's two in the morning and you just had an awesome idea that you think your friend will love, but, frankly, it's not so awesome that you want to wake them up with it.  How do you let them know?</p>
+  <p class="lead">If you're like me, all of your friends are hyper-connected.  Any email I send is likely to sound an alert on their phone, their tablet and through the speakers of their computer</p>
+  <p class="lead">Half the time, I really don't need them to stop what they're doing to read my message.  <BR>It can wait…</p>
+
 
 ---
